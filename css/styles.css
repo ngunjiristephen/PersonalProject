@@ -1,0 +1,185 @@
+.Header
+{
+  background: url(../ip2/assets/backgrounds/landing.jpg);
+  text-align: center;
+  color: #FFFFFF;
+  height: 600px;
+  font-style: Century Gothic;
+  font-size: 34px;
+  font-variant: normal;
+}
+.row1Part1a
+{
+  background-color: white;
+  height:100px;
+  text-align: center;
+  color: black;
+  font-style: Century Gothic;
+  font-size: 12px;
+  font-variant: normal;
+}
+.row1Part1b
+{
+  background-color: white;
+  height:100px;
+  text-align: center;
+  color: black;
+  font-style: Century Gothic;
+  font-size: 12px;
+  font-variant: normal;
+}
+.row1Part2
+{
+  background-color: white;
+  height:100px;
+  text-align: center;
+  color: black;
+  font-style: Century Gothic;
+  font-size: 12px;
+  font-variant: normal;
+}
+.row1Part3
+{
+  background-color: white;
+  height:100px;
+  text-align: center;
+  color: black;
+  font-style: Century Gothic;
+  font-size: 12px;
+  font-variant: normal;
+}
+.row1Part4
+{background-color: white;
+height:100px;
+text-align: center;
+color: black;
+font-style: Century Gothic;
+font-size: 12px;
+font-variant: normal;
+}
+
+.imagsize{
+  object-fit: contain;
+  display: block;
+  margin: -4px;
+}
+
+.row2Part1{
+  padding-left: 25%;
+  padding-top: 80px;
+  height: 390px;
+  width: auto;
+  float: left;
+{
+
+.imagsize2
+  {
+    display: inline-block;
+    margin: -4px;
+  }
+  .row3Part1{
+    height: 390px;
+    padding-top: 80px;
+    padding-left: 80px;
+    text-align: right;
+    float: left;
+    height: auto;
+    width: 70%;
+  }
+
+  .row3Part2
+  {
+    height: 395px;
+    padding-left: 80px;
+    padding-top: 80px;
+    padding-bottom: 80px;
+    float: left;
+    //display: inline-block;
+  }
+
+  .row4
+  {
+   background: url(../ip2/assets/backgrounds/foodsBg.jpg);
+   height: 500px;
+   text-align: center;
+ }
+ .polaroid {
+   box-shadow: 0 0 10px #000000;
+   width: auto;
+   height: auto;
+   border-radius: 5px;
+   background-color: #ffffff;
+   padding: 20px;
+ }
+
+ div.tab {
+    margin-left: 10%;
+    margin-top: 5%;
+    width: 80%;
+    overflow: hidden;
+    border: 1px solid #ccc;
+    background-color: #f1f1f1;
+}
+
+div.tab button {
+    background-color: inherit;
+    float: left;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    padding: 14px 16px;
+    transition: 0.3s;
+    font-size: 17px;
+}
+.tabcontent {
+    display: none;
+    padding: 6px 0px;
+    border: 1px solid #ccc;
+    border-top: none;
+    margin-left: 10%;
+    width: 80%;
+    background-color: #ffffff;
+    height: 55%;
+}
+
+div.item {
+    vertical-align: top;
+    display: inline-block;
+    text-align: center;
+    color: #f41811;
+    font-weight: bold;
+     margin-left: 35px;
+}
+
+.caption {
+    display: block;
+}
+
+.row5{
+  width: 80%;
+  margin-left: 10%;
+  margin-top: 5%;
+  margin-bottom: 5%;
+  height: 200px;
+  box-shadow: 0 0 10px #000000;
+}
+.SideL{
+  text-align: center;
+  width: 60%;
+  height: 100%;
+  float: left;
+}
+
+.SideR{
+  text-align: center;
+  width: 30%;
+  height: 95%;
+  border-left: 3px solid #7C7063;
+  float: right;
+  padding: 5px;
+}
+h3{
+  color: #f7761b;
+  padding: 0px;
+  margin: 0px;
+}
